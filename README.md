@@ -1,6 +1,6 @@
 # millstone
 
-IMPORTANT: this fork was created only to add some simple fixes necessary to run [Tilemill](https://github.com/mapbox/tilemill) with node v4.
+**IMPORTANT:** this fork was created only to add some simple fixes necessary to run [Tilemill](https://github.com/mapbox/tilemill) with node v4.
 
 The original readme is below.
 
