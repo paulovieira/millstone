@@ -1,5 +1,11 @@
 # millstone
 
+IMPORTANT: this fork was created only to add some simple fixes necessary to run [Tilemill](https://github.com/mapbox/tilemill) with node v4.
+
+The original readme is below.
+
+---
+
 [![Build Status](https://secure.travis-ci.org/mapbox/millstone.png?branch=master)](http://travis-ci.org/mapbox/millstone)
 [![Build status](https://ci.appveyor.com/api/projects/status/jtktmdac2g60h1rj)](https://ci.appveyor.com/project/Mapbox/millstone)
 [![Dependencies](https://david-dm.org/mapbox/millstone.png)](https://david-dm.org/mapbox/millstone)
